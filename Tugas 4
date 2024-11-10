@@ -1,0 +1,6 @@
+p = 16
+l = 24
+
+perkalian = p * l
+
+print("Hasilnya: ", perkalian)
